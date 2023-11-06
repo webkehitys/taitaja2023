@@ -1,0 +1,38 @@
+FIN
+PHP-tehtävä:
+
+1.	Anna kahteen input kenttään kaksi erillistä lausetta.
+2.	Vertaa ensimmäisen lauseen kirjaimia toisen lauseen kirjaimiin
+3.	Laske toisessa lauseessa esiintyvät samat kirjaimet kuin ensimmäisessä ja tulosta niiden lukumäärä
+4.	Tulosta saman kirjaimen lukumäärä vain kerran
+
+Esimerkki:
+1. "Hei maailma" 
+2. "Taitaja-kisat on käynnissä"
+
+H:0
+E:0
+I:3
+M:0
+A:4
+L:0
+
+
+ENG
+PHP task:
+•	Create two input fields for two different sentences.
+•	Compare the letters in the first sentence to those in the second sentence.
+•	Count the letters in the second sentence and print the amount.
+•	Print one letter only once.
+
+Example:
+1. "Hei maailma" 
+2. "Taitaja-kisat on käynnissä"
+
+H: 0
+E: 0
+I: 3
+M: 0
+A: 4
+L: 0
+

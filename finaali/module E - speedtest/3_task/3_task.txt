@@ -1,0 +1,5 @@
+FIN
+Kirjoita PHP-funktio, joka ottaa sähköpostiosoitteen syötteeksi. Tämä funktio tarkistaa, onko sähköpostiosoite kelvollinen, ja jos se on kelvollinen, se erottaa tämän sähköpostiosoitteen yläpäätason verkkotunnusnimen (top-level domain name).
+
+ENG
+Write a PHP function which takes an email address as input. This function will check if the email address is valid, and only if it is valid will it extract the top-level domain name from this email address.

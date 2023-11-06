@@ -1,0 +1,6 @@
+FIN
+Korjaa koodi niin, että noppa näyttää alla olevan kuvan kaltaiselta.
+
+ENG
+Fix the code so the dice look like the one in the image below.
+

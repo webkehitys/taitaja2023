@@ -1,0 +1,15 @@
+FIN
+Luo JavaScript-funktio, joka ottaa parametrina taulukon, jossa on 10 kokonaislukua välillä 0-9. Funktion tarkoitus on muotoilla puhelinnumero, joka on saatu taulukosta muotoon "+358 XX YYY ZZZZ", missä "XX" on kaksi ensimmäistä numeroa, "YYY" on seuraavat kolme numeroa ja "ZZZZ" on viisi viimeistä numeroa.
+
+- Muunna numerot merkkijonoiksi ja lisää etuliite "+358".
+- Muotoile numerot välilyöntien avulla oikeaan muotoon.
+- Palauta lopullinen muotoiltu puhelinnumero merkkijonona.
+
+
+
+ENG
+Create a JavaScript function that takes a parameter of an array of 10 integers between 0-9. The purpose of the function is to format the phone number obtained from the array to the form "+358 XX YYY ZZZZ", where "XX" is the first two numbers, "YYY" is the next three numbers, and "ZZZZ" is the last five numbers.
+
+- Convert the numbers to strings and add the prefix "+358".
+- Format the numbers with spaces to group them in the correct format.
+- Return the final formatted phone number as a string.

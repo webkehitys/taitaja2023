@@ -1,0 +1,17 @@
+FIN
+Nykyisen pelin logiikka:
+Aina kun käärme syö saaliin, se kasvaa.
+
+Uusi logiikka:
+Käärmeen pituus kasvaa automaattisesti ajan kuluessa yhdellä palalla joka kolmas sekunti. Muuta logiikkaa niin, että käärmeen syödessä sen pituus lyhenee.
+
+
+
+ENG
+The logic of the current game:
+Any time snake eats a bite, it grows. 
+
+Logic to be:
+The length of the snake grows automatically as time goes by. One bite every third second.
+Change the logic so that the more snake eats, the shorter it gets.
+

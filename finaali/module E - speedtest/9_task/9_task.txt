@@ -1,0 +1,12 @@
+FIN
+1. Toteuta kuvan mukainen pohjapiirustus html:llä ja css:llä
+2. Tee oikealle puolelle lista huoneista
+3. Kun siirrät kursorin huoneen nimen päälle, se aktivoituu pohjapiirustuksessa
+4. Kun hiiri siirtyy pois, aktivointi häviää
+
+
+ENG
+1. Create a floorplan according to the picture
+2. List rooms on the right-hand side of the picture
+3. When the cursor is on top of the name of the room, the room activates on the floorplan
+4. When the cursor is moved out, the activation stops

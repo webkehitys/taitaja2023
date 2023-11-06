@@ -1,0 +1,12 @@
+FIN
+• Generoi kolme lukua väliltä 1-10.
+• Generoi kolme lisää lukua väliltä 1-10.
+• Tulosta molemmat sarjat kahtena sarakkeena laskevassa järjestyksessä vierekkäin.
+• Animaatiolla korostetaan luvut, jotka ovat samassa rivissä (pulsoivia animaatioita (koon ja värin muutokset)).
+
+
+ENG
+•	Generate three numbers between 1-10
+•	Generate three more numbers between 1-10
+•	Print both sets as two columns in descending order, side by side
+•	Animate the figures that match in the same row (pulsing animation (size and colour changes)).

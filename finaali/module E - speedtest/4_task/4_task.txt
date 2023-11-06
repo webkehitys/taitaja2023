@@ -1,0 +1,6 @@
+FIN
+Tiedostossa person.json on yhden henkilön tiedot (nimi ja ikä). Lue tiedosto ja muuta henkilön nimi sekä ikä. Tallenna uudet tiedot person.json-tiedostoon.
+
+
+ENG
+The file person.json contains information about one person (name and age). Read the file and modify the person's name and age. Save the new information to the file person.json.

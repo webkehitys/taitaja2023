@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .dice {
+      width: 100px;
+      height: 100px;
+      background-color: white;
+      border: 1px solid black;
+      border-radius: 10px;
+      position: relative;
+    }
+
+    .dice::before,
+    .dice::after {
+      content: "";
+      position: absolute;
+      background-color: black;
+      border-radius: 50%;
+      width: 20px;
+      height: 20px;
+    }
+
+    .dot-1 {
+      top: 25px;
+      left: 25px;
+    }
+
+    .dot-2 {
+      top: 25px;
+      right: 25px;
+    }
+
+    .dot-3 {
+      bottom: 25px;
+      left: 25px;
+    }
+
+    .dot-4 {
+      bottom: 25px;
+      right: 25px;
+    }
+  </style>
+</head>
+<body>
+  <p class="dice">
+    <span class="dot-1"></span>
+    <span class="dot-2"></span>
+    <span class="dot-3"></span>
+    <span class="dot-4"></span>
+  </p>
+</body>
+</html>

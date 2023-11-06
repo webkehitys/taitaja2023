@@ -1,0 +1,6 @@
+Matematiikka voi olla hauskaa - pelaa pelejämme ja näe itse!
+
+- Yhteenlasku- ja vähennyslaskupelit
+- Kertolasku- ja jakolaskupelit
+- Murtoluku- ja desimaalipelit
+- Geometriapelit

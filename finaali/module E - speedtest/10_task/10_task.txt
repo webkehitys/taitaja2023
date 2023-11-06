@@ -1,0 +1,5 @@
+FIN
+Kirjoita PHP-funktio, joka ottaa numeron ja tarkistaa, onko se alkuluku (prime number). Joka tapauksessa pienempi ja suurempi naapurialkuluvut tulisi myös tulostaa.
+
+ENG
+Write a PHP function that takes a number and checks whether it is a prime number. In either case, the smaller and larger neighbouring prime numbers should also be printed.
