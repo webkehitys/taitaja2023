@@ -1,3 +1,5 @@
+![Taitaja 2023 Espoo](taitaja23.png)
+
 # Taitaja 2023 web-kehitys laji tehtävät
 
 ## Semifinaali
