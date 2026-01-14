@@ -6,9 +6,13 @@
 
 Semifinaalitehtävässä opiskelijoiden tulee viimeistellä ja julkaista Weather Oy:n kehittämä sääpalvelu. Tehtävä vaatii HTML:n, CSS:n, JavaScriptin, PHP:n ja SQL:n taituruutta. Opiskelijoiden on noudatettava asiakkaan graafista suunnitelmaa ja varmistettava sivuston responsiivisuus ja käyttäjäystävällisyys. Tehtävässä arvioidaan myös laadukkaan koodin tuottamista, GitHub-repositorion määrittelyä ja README-tiedoston laatimista.
 
+Kansiossa on ladattavissa myös semifinaalin arviointikriteerit. 
+
 ## Finaali
 
 Finaalitehtävässä opiskelijoiden on työskenneltävä yhdessä yrityksen perustajan Mari Laureniuksen kanssa ja luotava interaktiivinen verkkopalvelu, joka auttaa opiskelijoita matematiikan oppimisessa. Tehtävänä on kehittää moderni, helppokäyttöinen ja responsiivinen sivusto, mukaan lukien yksi peli, joka täyttää annetut tekniset vaatimukset. Tehtävän arvioinnissa otetaan huomioon tekniset taidot, asiakastyöskentelyosaaminen, sivuston käytettävyys ja asiakasuskollisuus.
+
+Kansiossa on ladattavissa myös finaalin arviointikriteerit. 
 
 ### Moduuli A:
 
